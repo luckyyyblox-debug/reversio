@@ -6,7 +6,7 @@ targets:
     type: application
     platform: iOS
     deploymentTarget: "15.0"
-    sources: [Reversio]
+    sources: [ReversioApp.swift]
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.reversio.app
